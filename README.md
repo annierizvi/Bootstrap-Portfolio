@@ -2,6 +2,8 @@
 
 This project is a personal portfolio website built using the Bootstrap framework. It showcases my journey from a Business Analyst to a Software Developer, highlighting my skills, work experience, and projects.
 
+URL: https://annierizvi.github.io/Bootstrap-Portfolio/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
