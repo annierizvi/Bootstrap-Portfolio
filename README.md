@@ -33,6 +33,10 @@ The purpose of this portfolio is to present a comprehensive view of my professio
 - Footer with social media links
 - Deployed on GitHub Pages
 
+## Screen Shots
+
+![bootstrap portfolio](https://github.com/annierizvi/Bootstrap-Portfolio/assets/35262548/e14ece87-30c6-4c4b-989e-5e5122a1acef)
+
 ## Installation
 
 To clone and run this application, you'll need Git and optionally a live-server plugin. From your command line:
